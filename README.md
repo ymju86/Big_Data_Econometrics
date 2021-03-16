@@ -14,11 +14,11 @@ Materials for TA session
 - Instrumental Variables & Regression Discontinuity
 - Differences in Differences
 - Blocking estimator & Matching estimator
--- Pre-processing phase:
--- Assess covariate balance
--- Estimate propensity score
--- Trim sample
--- Stratify sample
+- - Pre-processing phase:
+- - Assess covariate balance
+- - Estimate propensity score
+- - Trim sample
+- - Stratify sample
 
 ## Exmerimental Design
 - A/B Testing
