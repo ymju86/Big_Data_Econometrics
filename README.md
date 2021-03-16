@@ -1,5 +1,5 @@
 # Big_Data_Econometrics
-Materials for TA session
+Materials for TA session (update: March 15, 2021)
 
 ## Basic & Econometrics
 - Computational Efficiency
