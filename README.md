@@ -28,4 +28,4 @@ Materials for TA session (update: March 15, 2021)
 - Principan Component Analysis (PCA)
 - Regularized Regression
 - Double LASSO
-- Manifold Learning
+- Manifold Learning 
